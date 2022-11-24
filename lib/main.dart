@@ -5,7 +5,11 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 
-            
+         /*
+          Created by BERDIYEV SHEKHROZ on 16:09:17 24.11.2022
+          © 2022  
+          Project ::: Sign in   SignUP
+          */  
 void main()async {
   await AppSetup.setup;
   runApp(const MyApp());
